@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="/uploads/e24902f1e160c77732f696262065f562/KakaoTalk_20220819_010849865.png" alt="TerasStudy" />
+  <img src="/build/Teras_logo_home.png" alt="TerasStudy" />
   <br />
   <h1>테라스처럼 편한 학교</h1>
   <br />

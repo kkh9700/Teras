@@ -204,17 +204,17 @@
 <table>
     <tr>
         <td height="140px" align="center"> <a href="https://github.com/PowerBBear">
-            <img src="/uploads/b0ab56b839be9246253b4053b33b373c/민성.jpg" width="140px" /> <br><br> 👑 김민성 <br>(Front-End) </a> <br></td>
+             👑 김민성 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/JunPark364">
-            <img src="/uploads/62c8c647a9a7f0457f513f1e8b9c17fe/영준.jpg" width="140px" /> <br><br> 🙂 박영준 <br>(Front-End) </a> <br></td>
+             🙂 박영준 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/pch8349">
-            <img src="/uploads/bde99e85c40adf4a84d8a4b12a4e864b/찬혁.jpg" width="140px" /> <br><br> 😆 박찬혁 <br>(Front-End) </a> <br></td>
+             😆 박찬혁 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/SilverLight96">
-            <img src="/uploads/b4261571e054933c2178a03f13e19f2d/경은.jpg" width="140px" /> <br><br> 😁 강경은 <br>(Back-End) </a> <br></td>
+             😁 강경은 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/heunhanireum">
-            <img src="/uploads/ae19dde3e26a774bcef77adcc154f725/민지.jpg" width="140px" /> <br><br> 🙄 김민지 <br>(Back-End) </a> <br></td>
+             🙄 김민지 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/kkh9700">
-            <img src="/uploads/8a957c23971bab7ac9f3fec55e64c918/경환.jpg" width="140px" /> <br><br> 😶 김경환 <br>(Back-End) </a> <br></td>
+             😶 김경환 <br>(Back-End) </a> <br></td>
     </tr>
     <tr>
         <td align="center">UI/UX<br/>React<br/>DB<br/>Infra<br/></td>
